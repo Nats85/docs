@@ -227,6 +227,7 @@ select {
 
 .branding .text-highlight {
   color: #301284;
+  text-transform: none;
 }
 
 .body-green .branding .text-highlight {
