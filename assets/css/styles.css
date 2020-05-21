@@ -207,7 +207,10 @@ select {
   text-align:100px !important;
 
 }
+.image {
+  text-align:100px !important;
 
+}
 
 .branding {
   text-transform: uppercase;
