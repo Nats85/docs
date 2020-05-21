@@ -1153,7 +1153,7 @@ border-left: 0px  #fff;
 /* ======= Landing Page ======= */
 
 .landing-page .header {
-  background-image: url("docs/assets/images/bg.jpg");
+  background-image: url("/assets/images/bg.jpg");
   background: #f9f9f9;
   color: rgb(13, 13, 14);
   padding: 110px 0;
