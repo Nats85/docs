@@ -1,5 +1,6 @@
 
-.icon-asdk:before { content: '\e800'; } /* '' */
-.icon-adm:before { content: '\e803'; } /* '' */
-.icon-afls:before { content: '\e804'; } /* '' */
-.icon-aemm:before { content: '\e805'; } /* '' */
+.icon-cmdb:before { content: '\e800'; } /* '' */
+.icon-asdk:before { content: '\e801'; } /* '' */
+.icon-afls:before { content: '\e802'; } /* '' */
+.icon-aemm:before { content: '\e803'; } /* '' */
+.icon-adm:before { content: '\e804'; } /* '' */
