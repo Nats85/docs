@@ -1223,16 +1223,16 @@ border-left: 0px  #fff;
 }
 
 .cards-section {
-  padding: 60px 0;
+  padding: 90px 0;
   background: #ffffff;
 }
 
 .cards-section .title {
   margin-top: 0;
-  margin-bottom: 23px;
-  font-size: 21px;
+  margin-bottom: 24px;
+  font-size: 27px;
   color: #636367;
-  font-family:"PT_Sans",sans-serif
+  font-family: "PT_Sans",sans-serif;
 
 }
 
