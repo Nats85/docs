@@ -1154,7 +1154,7 @@ border-left: 0px  #fff;
 
 .landing-page .header {
   background-image: url("https://github.com/Nats85/docs/blob/master/assets/images/bg.jpg");
-  background: #edeefc;
+  /*background: #edeefc;*/
   color: rgb(13, 13, 14);
   padding: 110px 0;
 }
