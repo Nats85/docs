@@ -376,7 +376,6 @@ select {
 /* ====== Footer ====== */
 .footer {
   background: #00064c;
-  color: #fff;
   padding: 34px 0;
   border-top: 5px solid #9372ef;
 }
@@ -390,6 +389,9 @@ select {
   color: #f2f2f2;
 }
 
+.footer .container {
+  color: #fff;
+}
 @media (max-width: 575.98px) {
   .top-search-box {
     width: 100%;
