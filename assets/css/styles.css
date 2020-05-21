@@ -1339,15 +1339,15 @@ border-left: 0px  #fff;
 }
 
 .cards-section .item-orange .item-inner {
-  border-top: 7px solid #ff846e;
+  border-top: 7px solid #a6b9c8;
 }
 
 .cards-section .item-orange .item-inner:hover .title {
-  color: #ff846e;
+  color: ##a6b9c8;
 }
 
 .cards-section .item-orange .icon {
-  color: #ff846e;
+  color: ##a6b9c8;
 }
 
 .cards-section .item-red .item-inner {
