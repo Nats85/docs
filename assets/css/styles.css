@@ -367,7 +367,10 @@ select {
 
 /* ====== info ====== */
 
-
+ .docs.text-center {
+  background-color: #0b0e65; */
+  color: #9272ef;
+  font-size: 26px;
 /* ====== Footer ====== */
 .footer {
   background: #00064c;
