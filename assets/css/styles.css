@@ -1351,15 +1351,15 @@ border-left: 0px  #fff;
 }
 
 .cards-section .item-red .item-inner {
-  border-top: 7px solid #f77b6b;
+  border-top: 7px solid #a6b9c8;
 }
 
 .cards-section .item-red .item-inner:hover .title {
-  color: #f33a22;
+  color: #a6b9c8;
 }
 
 .cards-section .item-red .icon {
-  color: #f77b6b;
+  color: #a6b9c8;
 }
 
 .cards-section .item-pink .item-inner {
