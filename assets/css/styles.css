@@ -208,7 +208,8 @@ select {
 
 }
 .image {
-  text-align:100px !important;
+  align-items: center;
+  position: absolute;
 
 }
 
