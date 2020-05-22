@@ -392,7 +392,8 @@ select {
 
 .footer .container {
   color: #fff;
-  margin-top: -26px;
+  margin-top: -11px;
+  font-size: 12px;
 }
 @media (max-width: 575.98px) {
   .top-search-box {
