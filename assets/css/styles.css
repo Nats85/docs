@@ -1184,7 +1184,7 @@ border-left: 0px  #fff;
 /* ======= Landing Page ======= */
 
 .landing-page .header {
-  background: #f4f5fb;
+  background-image: url("https://nats85.github.io/docs/assets/images/logo_aranda.png");
   color: rgb(13, 13, 14);
   padding: 110px 0;
 }
