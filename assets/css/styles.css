@@ -126,7 +126,7 @@ code {
   padding: 7px 15px;
 }
 .button {
-  
+
   border-radius: 4px;
   background-color: none;
   border: 0.3px solid #999999;
@@ -245,7 +245,7 @@ select {
 
 .text-center {
   text-align:100px !important;
-  
+
 
 }
 .image {
@@ -1404,7 +1404,7 @@ border-left: 0px  #fff;
 }
 
 .cards-section .item-orange .item-inner {
-  border-top: 7px solid #a6b9c8;
+  border-top: 7px solid #00bbd6;
 }
 
 .cards-section .item-orange .item-inner:hover .title {
@@ -1432,7 +1432,7 @@ border-left: 0px  #fff;
 }
 .cards-section .item-pink .item-inner:hover .link {
   color: #ff846e;
-}  
+}
 .cards-section .item-pink .item-inner:hover .title {
   color: #ff846e;
 }
