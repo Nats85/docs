@@ -243,7 +243,8 @@ select {
 }
 
 .text-center {
-  text-align:100px !important;
+  /*text-align:100px !important;*/
+  
 
 }
 .image {
