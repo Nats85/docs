@@ -1378,10 +1378,12 @@ border-left: 0px  #fff;
   border-top: 7px solid #089EC3;
 }
 
+.cards-section .item-green .item-inner:hover .link {
+  color: #089ec3;
+}
 .cards-section .item-green .item-inner:hover .title {
   color: #089ec3;
 }
-
 .cards-section .item-green .icon {
   color: #089EC3;
 }
