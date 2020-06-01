@@ -1428,7 +1428,9 @@ border-left: 0px  #fff;
 .cards-section .item-pink .item-inner {
   border-top: 7px solid #ff846e;
 }
-
+.cards-section .item-green .item-inner:hover .link {
+  color: #ff846e;
+}  
 .cards-section .item-pink .item-inner:hover .title {
   color: #ff846e;
 }
