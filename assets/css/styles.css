@@ -1309,6 +1309,7 @@ border-left: 0px  #fff;
   max-width: 895px;
   margin-left: auto;
   margin-right: auto;
+  text-align: left;
 }
 
 .cards-section .item {
