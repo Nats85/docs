@@ -129,12 +129,12 @@ code {
   
   display: inline-block;
   border-radius: 4px;
-  background-color: #f4511e;
+  background-color: #999999;
   border: none;
   color: #FFFFFF;
   text-align: center;
-  font-size: 28px;
-  padding: 20px;
+  font-size: 13px;
+  padding: 16px;
   width: 200px;
   transition: all 0.5s;
   cursor: pointer;
