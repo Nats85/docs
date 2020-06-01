@@ -243,7 +243,7 @@ select {
 }
 
 .text-center {
-  /*text-align:100px !important;*/
+  text-align:100px !important;
   
 
 }
@@ -810,7 +810,6 @@ select {
 }
 
 .theme-card {
-  text-align: center;
   border: 1px solid #e3e3e3;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
