@@ -126,20 +126,19 @@ code {
   padding: 7px 15px;
 }
 .button {
-  
+  display: inline-block;
   border-radius: 4px;
-  background-color: none;
-  border: 0.3px solid #999999;
-  color: #999999;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
   text-align: center;
-  font-size: 13px;
-  padding: 5px;
-  width: 150px;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
   transition: all 0.5s;
   cursor: pointer;
-
+  margin: 5px;
 }
-
 
 .button span {
   cursor: pointer;
