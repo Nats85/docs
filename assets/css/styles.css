@@ -240,6 +240,7 @@ select {
 .header .container {
   position: relative;
   margin-top: 10px;
+  text-align: center;
 }
 
 .text-center {
