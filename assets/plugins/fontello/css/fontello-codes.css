@@ -1,6 +1,7 @@
 
-.icon-cmdb:before { content: '\e800'; } /* '' */
-.icon-asdk:before { content: '\e801'; } /* '' */
+.icon-adm:before { content: '\e800'; } /* '' */
+.icon-aemm:before { content: '\e801'; } /* '' */
 .icon-afls:before { content: '\e802'; } /* '' */
-.icon-aemm:before { content: '\e803'; } /* '' */
-.icon-adm:before { content: '\e804'; } /* '' */
+.icon-asdk:before { content: '\e803'; } /* '' */
+.icon-avs:before { content: '\e804'; } /* '' */
+.icon-cmdb:before { content: '\e805'; } /* '' */
