@@ -1475,6 +1475,7 @@ border-left: 0px  #fff;
   .main-search-box .search-form .search-input {
     width: 300px;
     position: absolute;
+    display: none;
   }
 }
 
@@ -1484,5 +1485,6 @@ border-left: 0px  #fff;
     height: 25px;
     font-size: 12px;
     position: absolute;
+    display: none;
   }
 }
