@@ -225,7 +225,7 @@ select {
 
 .header {
 
-  background: #301284;
+  background: #f9fafb;
   color: #fff;
   border-top: 50px solid #301284;
   padding: 1x 0px 0;
@@ -1212,11 +1212,11 @@ border-left: 0px  #fff;
 /* ======= Landing Page ======= */
 
 .landing-page .header {
-  background-image: url("https://nats85.github.io/docs/assets/images/bg.jpg");
+  /* background-image: url("https://nats85.github.io/docs/assets/images/bg.jpg");*/
   background-repeat: no-repeat;
   background-size: 100%;
   color: rgb(13, 13, 14);
-  padding: 110px 0;
+  padding: 28px 0;
 }
 
 .landing-page .header a {
@@ -1455,10 +1455,12 @@ border-left: 0px  #fff;
 @media (max-width: 575.98px) {
   .main-search-box {
     width: 100%;
+    display: none;
   }
   .main-search-box .search-form .search-input {
     width: 100%;
     position: absolute;
+    display: none;
   }
 }
 
