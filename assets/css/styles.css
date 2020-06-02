@@ -1212,7 +1212,7 @@ border-left: 0px  #fff;
 /* ======= Landing Page ======= */
 
 .landing-page .header {
-  /* background-image: url("https://nats85.github.io/docs/assets/images/bg.jpg");*/
+  background-image: url("https://nats85.github.io/docs/assets/images/bg.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
   color: rgb(13, 13, 14);
